@@ -1,2 +1,2 @@
 # Estudando-Python
- processo de aprendizado de python.
+ Processo de aprendizado de python.
