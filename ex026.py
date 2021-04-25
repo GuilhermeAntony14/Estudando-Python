@@ -1,0 +1,6 @@
+n = str(input('Digite um texto para a analise: ')).strip()
+n2 = n.lower()
+print('letras A que tem: {}'.format(n2.count('a')))
+print('Primeira letra A aparece: {}'.format(n2.find('a')+1))
+print('ultima letra A aparece: {}'.format(n2.rfind('a')+1))
+print('Quantidade de letras na sting: {}'.format(len('' .join(n.split()))))

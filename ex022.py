@@ -1,0 +1,7 @@
+n = str(input('Digite um nome: ')).strip()
+print(n.upper())
+print(n.lower())
+n2 = n.split()
+n3 = ''.join(n2)
+print(f'Quantidade de letras: {len(n3)}')
+print(f'Quantida letras no primeiro nome: {len(n2[0])}')
